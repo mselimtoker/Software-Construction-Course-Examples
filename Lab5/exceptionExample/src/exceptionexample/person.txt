@@ -1,0 +1,5 @@
+ilhan sofu	-100	30
+ali	veli	1000	25
+ahmet	mehmet	5000	40
+ayşe	fatma	7000	-30
+hasa121	hüseyin	5000	60
